@@ -1,0 +1,6 @@
+#Ignore files and folders
+
+/.metals
+/.vscode
+/venv
+.env

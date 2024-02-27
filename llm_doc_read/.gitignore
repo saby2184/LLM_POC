@@ -1,5 +1,5 @@
 #dont load data files
-
+/local_llm_model
 /data
 #dont load env files
 
