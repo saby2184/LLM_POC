@@ -1,0 +1,6 @@
+#dont load data files
+
+/data
+#dont load env files
+
+.env
