@@ -2,5 +2,8 @@
 /local_llm_model
 /data
 #dont load env files
-
+llama_cpp
+chroma_db
+faiss_index
+venv
 .env

@@ -1,1 +1,0 @@
-## script for QnA advisor of the reseach papers
