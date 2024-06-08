@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-08T11:25:49.685Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="l-SBmmlennM8JqBiRYxz" version="24.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-08T11:29:21.834Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="3SSTVZ1_tgvOyHH3Ustz" version="24.5.2" type="github">
   <diagram name="Page-1" id="T56wcgvE9HibvvRjGMIK">
     <mxGraphModel dx="1444" dy="833" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -23,7 +23,7 @@
           <mxGeometry x="340" y="70" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AcdTCWbEWRtVyamcs44_-6" value="Reviews DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="425" y="270" width="60" height="80" as="geometry" />
+          <mxGeometry x="440" y="240" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="AcdTCWbEWRtVyamcs44_-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="AcdTCWbEWRtVyamcs44_-4" target="AcdTCWbEWRtVyamcs44_-6">
           <mxGeometry relative="1" as="geometry" />
@@ -43,17 +43,23 @@
         <mxCell id="AcdTCWbEWRtVyamcs44_-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AcdTCWbEWRtVyamcs44_-11" target="AcdTCWbEWRtVyamcs44_-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AcdTCWbEWRtVyamcs44_-11" value="Summarization" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AcdTCWbEWRtVyamcs44_-11" value="Summarization&lt;div&gt;Agent&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="740" y="70" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AcdTCWbEWRtVyamcs44_-13" value="&lt;div&gt;Cutomer Analysis&lt;/div&gt;Report" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="990" y="190" width="120" height="60" as="geometry" />
+        <mxCell id="AcdTCWbEWRtVyamcs44_-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AcdTCWbEWRtVyamcs44_-13" target="AcdTCWbEWRtVyamcs44_-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AcdTCWbEWRtVyamcs44_-13" value="Report Generation&lt;div&gt;&lt;/div&gt;&lt;div&gt;Srvc&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="70" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AcdTCWbEWRtVyamcs44_-28" value="Cleaned Embedding" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="620" y="260" width="60" height="80" as="geometry" />
+          <mxGeometry x="620" y="240" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="AcdTCWbEWRtVyamcs44_-30" value="LLM Model" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="780" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AcdTCWbEWRtVyamcs44_-34" value="Report o/p" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="210" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
